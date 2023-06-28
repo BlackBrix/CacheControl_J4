@@ -13,7 +13,7 @@ This can help if you are using extensions that have trouble with the Joomla! cac
   
 originally invented by Crosstec GmbH &amp; Co. KG (2013)  www.crosstec.de  
   
-modified for Jooomla 4.x by "SharkyKZ" at https://forum.joomla.org
+modified for Jooomla 4.x by "SharkyKZ" (2023) at https://forum.joomla.org
   
 "Documentation" (old J3 Version):   
 https://crosstec.org/en/forums/1-forums/72050-documentation-for-cache-control-plugin.html  
