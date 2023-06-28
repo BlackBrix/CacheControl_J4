@@ -1,29 +1,27 @@
-# CacheControl_J3
-Useful Joomla 3.x plugin that turns off joomla caching for the desired pages by using URL based parameters.  
+# CacheControl_J4
+Useful Joomla 4.x plugin that turns off joomla caching for the desired pages by using URL based parameters.  
 PLEASE DO NOT FORGET TO ENABLE THE PLUGIN!  
 
 CacheControl is an easy to use plugin where you can define on what pages and components caching should be turned off.  
 This can help if you are using extensions that have trouble with the Joomla! cache.  
   
-(runs on Joomla 3.x only -> for a Joomla 4.x version see here -> T.B.D.)  
+(runs on Joomla 4.x only -> for a Joomla 3.x version see here -> https://github.com/BlackBrix/CacheControl_J3 )  
   
 
   
 ----    
   
-in Joomla extension directory:  
-https://extensions.joomla.org/extension/cachecontrol/  
+originally invented by Crosstec GmbH &amp; Co. KG (2013)  www.crosstec.de  
   
-Download:  
-https://crosstec.org/en/downloads/free/extensions-for-joomla/details/6/25/free-extensions-for-joomla-%C2%AE-cachecontrol.html  
+modified for Jooomla 4.x by "SharkyKZ" at https://forum.joomla.org
   
-"Documentation":   
+"Documentation" (old J3 Version):   
 https://crosstec.org/en/forums/1-forums/72050-documentation-for-cache-control-plugin.html  
   
 ----  
   
   
-<img src="CacheControl_J3_settings.png">
+<img src="CacheControl_J4_settings.png">
    
     
 ----  
