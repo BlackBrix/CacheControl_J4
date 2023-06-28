@@ -11,9 +11,9 @@ This can help if you are using extensions that have trouble with the Joomla! cac
   
 ----    
   
-originally invented by Crosstec GmbH &amp; Co. KG (2013)  www.crosstec.de  
+originally invented for J3 by Crosstec GmbH &amp; Co. KG (2013)  https://crosstec.org (in [Joomla Extension Directory](https://extensions.joomla.org/extension/cachecontrol/))  
   
-modified for Jooomla 4.x by "SharkyKZ" (2023) at https://forum.joomla.org
+modified for Jooomla 4.x by "SharkyKZ" (2023) at https://forum.joomla.org ([Link To Forum Thread](https://forum.joomla.org/viewtopic.php?f=831&t=1002431))
   
 "Documentation" (old J3 Version):   
 https://crosstec.org/en/forums/1-forums/72050-documentation-for-cache-control-plugin.html  
