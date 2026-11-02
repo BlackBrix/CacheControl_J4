@@ -6,7 +6,7 @@ CacheControl is an easy to use plugin where you can define on what pages and com
 This can help if you are using extensions that have trouble with the Joomla! cache.  
   
 (runs on Joomla 4.x/5.x only -> for a Joomla 3.x version see here -> https://github.com/BlackBrix/CacheControl_J3 )   
-(NEW: for a Joomla 5.4.x and Joomla6.x Version see here -> https://github.com/BlackBrix/CacheControl_J5_J6 )  
+(**NEW:** for a Joomla 5.4.x and Joomla 6.x Version see here -> https://github.com/BlackBrix/CacheControl_J5_J6 )  
   
 
   
